@@ -33,6 +33,7 @@ Folder structure :
 		API documentation: https://cloud.google.com/translate/docs/
 		Setup: https://cloud.google.com/translate/docs/advanced/setup-advanced
 		API reference:https://cloud.google.com/translate/docs/apis
+
 5.  Cleansing;
 	Hot;
 	Preprocessing
