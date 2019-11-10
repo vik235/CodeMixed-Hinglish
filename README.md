@@ -25,6 +25,9 @@ Folder structure :
 		
 3. 	Models:
 		Learnt models mapped with performance shwon in tensor board. 
+	
+	Modelperf:
+		Performance characteristics of some of the learnt models along with architecture.  
 
 4. 	Transilteration: 
 		Code in C# to use Google Translate API for translating source messages to English. Code is dirty and will be improved to correct failure mode reliability at run time. Google API had reliablity issues 
@@ -42,7 +45,14 @@ Folder structure :
 		These are files related to work done for model development and provides an end to end workign pipeline. During next few days/weeks these will structured and made modular 
 		to support sweeping of hyper params/frictionless logging for debuggign purposes. 
 		
-		
+6.	TBD:
+	Clean the scripts and modularize it.
+	Add hyperparam search.
+	Use indic language for translitration.
+	Employ LSTM (bidrectional) with/without attention
+	Use emoticons
+	Learn emneddings. 
+	
 		
 		
 		
