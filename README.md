@@ -1,6 +1,7 @@
 
 # CodeMixed-Hinglish
-Note: The datasrt contains profanity. Any mention of the dataset is for pure illustration purposes. 
+Note: The datasrt contains profanity. Any mention of examples is purely for illustration purposes. 
+
 Contains artifacts for training few architecture of neural networks for classifying code mixed Hindi and English (Hinglish) tweets into 3 classes - Offensive, Hateful and Non offensive. 
 
 Folder structure : 
