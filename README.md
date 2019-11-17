@@ -33,8 +33,11 @@ Folder structure :
 		Code in C# to use Google Translate API for translating source messages to English. Code is dirty and will be improved to correct failure mode reliability at run time. Google API had reliablity issues 
 		when tried first tiem and hence batch processing with retry and logging is needed. But we have gone trhough few successful passes of the translation already so makign these changes is second priority. 
 		Links: 
+
 		API documentation: https://cloud.google.com/translate/docs/
+
 		Setup: https://cloud.google.com/translate/docs/advanced/setup-advanced
+
 		API reference:https://cloud.google.com/translate/docs/apis
 
 5.  Cleansing;
@@ -46,12 +49,18 @@ Folder structure :
 		to support sweeping of hyper params/frictionless logging for debuggign purposes. 
 		
 6.	TBD:
+
 	Clean the scripts and modularize it.
+
 	Add hyperparam search.
+
 	Use indic language for translitration.
+
 	Employ LSTM (bidrectional) with/without attention
+
 	Use emoticons
-	Learn emneddings. 
+
+	Learn embeddings. 
 	
 		
 		
