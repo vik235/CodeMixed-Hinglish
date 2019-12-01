@@ -24,7 +24,7 @@ def model(vocab_size, embedding_dimension, input_length):
     embedding_dim = embedding_dimension
     maxlen = input_length
     model = Sequential()
-    model.add(Embedding(max_words, embedding_dim, input_length=maxlen), name='Embedding_Layer-Hinglish ')
+    model.add(Embedding(max_words, embedding_dim, input_length=maxlen))
     '''
     model.add(LSTM(32, recurrent_dropout = 0.2, return_sequences=True))
     model.add(LSTM(32, recurrent_dropout = 0.2, return_sequences=True))
